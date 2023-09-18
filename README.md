@@ -2,7 +2,7 @@
 
 React Native Animations is a collection of animations built using React Native
 
-| SL      | Animation Name | Demo URL   |
+| No      | Animation Name | Demo URL   |
 | :---        |    :----:   |          ---: |
 | 1   | Youtube Player        | [link](https://www.youtube.com/shorts/j4ecNSpfLZs)      |
 | 2  | Pull to Refresh        | [link](https://www.youtube.com/shorts/i_V9RQdYEWU)      |
